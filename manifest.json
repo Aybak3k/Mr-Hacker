@@ -1,0 +1,60 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Mr Hacker",
+  "author": "Aybak3k",
+  "browser_specific_settings": {
+    "gecko": {
+        "id": "{0ddb788f-946a-4db3-85f4-2db4a4f280eb}"
+      }
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center bottom"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(2, 2, 6)",
+      "toolbar_text": "rgb(21, 241, 33)",
+      "frame": "rgb(2, 2, 6)",
+      "tab_background_text": "rgb(100, 100, 100)",
+      "toolbar_field": "rgb(7, 7, 11)",
+      "toolbar_field_text": "rgb(21, 241, 33)",
+      "tab_line": "rgb(190, 0, 0)",
+      "popup": "rgb(2, 2, 6)",
+      "popup_text": "rgb(21, 241, 33)",
+      "icons_attention": "rgb(190, 0, 0)",
+      "icons": "rgb(21, 241, 33)",
+      "ntp_background": "rgb(5, 5, 9)",
+      "ntp_text": "rgb(21, 241, 33)",
+      "popup_border": "rgb(190, 0, 0)",
+      "popup_highlight_text": "rgb(0, 0, 0)",
+      "popup_highlight": "rgb(21, 241, 33)",
+      "sidebar_border": "rgb(190, 0, 0)",
+      "sidebar_highlight_text": "rgb(7, 7, 11)",
+      "sidebar_highlight": "rgb(21, 241, 33)",
+      "sidebar_text": "rgb(21, 241, 33)",
+      "sidebar": "rgb(7, 7, 11)",
+      "tab_background_separator": "rgb(190, 0, 0)",
+      "tab_loading": "rgb(190, 0, 0)",
+      "tab_selected": "rgb(2, 2, 6)",
+      "tab_text": "rgb(21, 241, 33)",
+      "toolbar_bottom_separator": "rgb(190, 0, 0)",
+      "toolbar_field_border_focus": "rgb(2, 2, 6)",
+      "toolbar_field_focus": "rgb(2, 2, 6)",
+      "toolbar_field_highlight_text": "rgb(2, 2, 6)",
+      "toolbar_field_highlight": "rgb(21, 241, 33)",
+      "toolbar_field_separator": "rgb(190, 0, 0)",
+      "toolbar_vertical_separator": "rgb(190, 0, 0)"
+    }
+  }
+}
